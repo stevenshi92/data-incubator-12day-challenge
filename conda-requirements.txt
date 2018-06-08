@@ -1,4 +1,6 @@
 pandas
+scipy
+numpy
 bokeh
 dill
 flask
